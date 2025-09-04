@@ -1,0 +1,88 @@
+[15:08:07] [main/WARN] (FabricLoader/Knot) Class path entries reference missing files: \exmod\bin\default - the game may not load properly!
+[15:08:07] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
+[15:08:07] [ForkJoinPool-1-worker-1/WARN] (FabricLoader/Metadata) Mod portscanner uses the version v0.0.1-alpha which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'v0'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[15:08:07] [main/INFO] (FabricLoader) Loading 51 mods:
+	- fabric-api 0.129.0+1.21.8
+	- fabric-api-base 0.4.64+9ec45cd8f3
+	- fabric-api-lookup-api-v1 1.6.100+946bf4c3f3
+	- fabric-biome-api-v1 16.0.11+946bf4c3f3
+	- fabric-block-api-v1 1.1.3+946bf4c3f3
+	- fabric-block-view-api-v2 1.0.31+946bf4c3f3
+	- fabric-client-gametest-api-v1 4.2.5+8a98c3fcf3
+	- fabric-command-api-v2 2.2.53+946bf4c3f3
+	- fabric-content-registries-v0 10.0.18+946bf4c3f3
+	- fabric-convention-tags-v1 2.1.40+7f945d5bf3
+	- fabric-convention-tags-v2 2.15.5+eb5df52ff3
+	- fabric-crash-report-info-v1 0.3.15+946bf4c3f3
+	- fabric-data-attachment-api-v1 1.8.10+946bf4c3f3
+	- fabric-data-generation-api-v1 23.2.4+55e55d29f3
+	- fabric-dimensions-v1 4.0.19+946bf4c3f3
+	- fabric-entity-events-v1 2.1.1+c9e47273f3
+	- fabric-events-interaction-v0 4.0.23+946bf4c3f3
+	- fabric-game-rule-api-v1 1.0.73+c64c9c5bf3
+	- fabric-gametest-api-v1 3.1.9+39ce47f5f3
+	- fabric-item-api-v1 11.4.3+946bf4c3f3
+	- fabric-item-group-api-v1 4.2.13+946bf4c3f3
+	- fabric-key-binding-api-v1 1.0.65+946bf4c3f3
+	- fabric-lifecycle-events-v1 2.6.3+db4dfd85f3
+	- fabric-loot-api-v2 3.0.55+3f89f5a5f3
+	- fabric-loot-api-v3 2.0.2+946bf4c3f3
+	- fabric-message-api-v1 6.1.1+946bf4c3f3
+	- fabric-model-loading-api-v1 5.2.5+946bf4c3f3
+	- fabric-networking-api-v1 5.0.1+946bf4c3f3
+	- fabric-object-builder-api-v1 21.1.7+946bf4c3f3
+	- fabric-particles-v1 4.1.7+946bf4c3f3
+	- fabric-recipe-api-v1 8.1.14+946bf4c3f3
+	- fabric-registry-sync-v0 6.1.27+946bf4c3f3
+	- fabric-renderer-api-v1 7.0.2+946bf4c3f3
+	- fabric-renderer-indigo 4.0.2+946bf4c3f3
+	- fabric-rendering-fluids-v1 3.1.30+fa6cb72bf3
+	- fabric-rendering-v1 12.4.0+e8d43c76f3
+	- fabric-resource-conditions-api-v1 5.0.24+946bf4c3f3
+	- fabric-resource-loader-v0 3.1.11+946bf4c3f3
+	- fabric-screen-api-v1 2.1.0+277ecf7df3
+	- fabric-screen-handler-api-v1 1.3.136+946bf4c3f3
+	- fabric-sound-api-v1 1.0.42+946bf4c3f3
+	- fabric-tag-api-v1 1.2.1+946bf4c3f3
+	- fabric-transfer-api-v1 6.0.5+946bf4c3f3
+	- fabric-transitive-access-wideners-v1 6.4.1+ac3e15d1f3
+	- fabricloader 0.16.14
+	- java 21
+	- minecraft 1.21.8
+	- mixinextras 0.4.1
+	- modmenu 15.0.0
+	   \-- placeholder-api 2.7.2+1.21.8
+	- portscanner v0.0.1-alpha
+[15:08:10] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/%d0%92%d0%b0%d1%81%d0%b8%d0%bb%d0%b8%d0%b9/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/22f9eb729e216a091673a574a5906dc1b9027fb3/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=CLIENT
+[15:08:10] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
+[15:08:10] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_21
+[15:08:11] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[15:08:12] [Datafixer Bootstrap/INFO] (Minecraft) 269 Datafixer optimizations took 390 milliseconds
+[15:08:16] [Render thread/INFO] (Minecraft) Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:08:16] [Render thread/INFO] (Minecraft) Setting user: Player777
+[15:08:16] [Render thread/INFO] (portscanner) By Seigu
+[15:08:16] [Render thread/INFO] (Mod Menu/Update Checker) Checking mod updates...
+[15:08:16] [Render thread/INFO] (Indigo) [Indigo] Registering Indigo renderer!
+[15:08:16] [Render thread/INFO] (Minecraft) Backend library: LWJGL version 3.3.3-snapshot
+[15:08:16] [ModMenu/Update Checker/Fabric Loader/INFO] (Mod Menu/Update Checker) Update available for 'fabricloader@0.16.14'
+[15:08:17] [Render thread/INFO] (Minecraft) Using optional rendering extensions: GL_ARB_buffer_storage, GL_KHR_debug, GL_ARB_vertex_attrib_binding, GL_ARB_direct_state_access
+[15:08:17] [Render thread/INFO] (Minecraft) Reloading ResourceManager: vanilla, fabric, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-client-gametest-api-v1, fabric-command-api-v2, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-gametest-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-loot-api-v3, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-rendering-fluids-v1, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-tag-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, modmenu, placeholder-api, portscanner
+[15:08:17] [Worker-Main-10/INFO] (Minecraft) Found unifont_pua-16.0.03.hex, loading
+[15:08:17] [Worker-Main-9/INFO] (Minecraft) Found unifont_all_no_pua-16.0.03.hex, loading
+[15:08:17] [Worker-Main-4/INFO] (Minecraft) Found unifont_jp_patch-16.0.03.hex, loading
+[15:08:18] [Render thread/INFO] (Minecraft) OpenAL initialized on device OpenAL Soft on Динамики (Realtek(R) Audio)
+[15:08:18] [Render thread/INFO] (Minecraft) Sound engine started
+[15:08:18] [Render thread/INFO] (Minecraft) Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[15:08:18] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[15:08:18] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[15:08:18] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[15:08:18] [Render thread/INFO] (Minecraft) Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[15:08:18] [Render thread/INFO] (Minecraft) Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[15:08:18] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[15:08:18] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[15:08:18] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[15:08:18] [Render thread/INFO] (Minecraft) Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[15:08:18] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[15:08:18] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[15:08:18] [Render thread/INFO] (Minecraft) Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[15:08:47] [Render thread/INFO] (Minecraft) Stopping!

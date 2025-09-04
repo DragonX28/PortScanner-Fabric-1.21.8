@@ -1,0 +1,14 @@
+{
+  "screen.serverscanner.title": "Сканер портов",
+  "screen.serverscanner.static_ip": "Статический IP",
+  "screen.serverscanner.start_port": "Начальный порт",
+  "screen.serverscanner.end_port": "Конечный порт",
+  "screen.serverscanner.back": "Назад",
+  "screen.serverscanner.start_scan": "Начать сканирование",
+  "screen.serverscanner.stop_scan": "Остановить сканирование",
+  "screen.serverscanner.add_all": "Добавить все",
+  "screen.serverscanner.ports_checked": "Портов проверено: %d",
+  "screen.serverscanner.servers_found": "Найдено серверов: %d",
+  "screen.serverscanner.Scan": "Поиск серверов",
+  "screen.serverscanner.Clear": "Очистить список"
+}

@@ -1,0 +1,14 @@
+{
+  "screen.serverscanner.title": "Port Scanner",
+  "screen.serverscanner.static_ip": "Static IP",
+  "screen.serverscanner.start_port": "Start Port",
+  "screen.serverscanner.end_port": "End Port",
+  "screen.serverscanner.back": "Back",
+  "screen.serverscanner.start_scan": "Start Scan",
+  "screen.serverscanner.stop_scan": "Stop Scan",
+  "screen.serverscanner.add_all": "Add all",
+  "screen.serverscanner.ports_checked": "Ports checked: %d",
+  "screen.serverscanner.servers_found": "Servers found: %d",
+  "screen.serverscanner.Scan": "Server Scanner",
+  "screen.serverscanner.Clear": "Clear Scanned"
+}

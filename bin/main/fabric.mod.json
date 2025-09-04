@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "portscanner",
+	"version": "v0.0.1-alpha",
+	"name": "Port Scanner",
+	"description": "Just server scanner about static ip in range port's",
+	"authors": [
+		"Seigu"
+	],
+	"contact": {
+		"homepage": "https://really?/",
+		"sources": "https://maybe-later"
+	},
+	"icon": "assets/portscanner/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.example.ExampleMod"
+		],
+		"client": [
+			"com.example.ExampleModClient"
+		]
+	},
+	"mixins": [
+		"modid.mixins.json",
+		{
+			"config": "modid.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.21.8",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
